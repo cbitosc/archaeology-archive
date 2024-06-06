@@ -6,7 +6,7 @@ Today we discovered an interesting stone tablet at the entrance. The inscription
 
 ## Entry #2 - June 2024  
 
-We need to check the **sealed-chamber** branch of passages. Dr. Martinez believes there may be important findings there.
+The artifacts directory requires more thorough documentation. We should create detailed records of each finding.
 
 ## Entry #3 - June 2024
 
