@@ -28,8 +28,10 @@ This chamber was discovered behind a sealed stone door.
 ║   The original guidance remains in record,     ║
 ║   Though now erased from this board."          ║
 ║                                                ║
-║  Original directive:                           ║
-║  → Proceed to ISSUE #2 (Crystal Records)       ║
+║  Current directive: [REMOVED]                  ║
+║                                                ║
+║  Consult the historical modifications          ║
+║  to see what was once written here.            ║
 ║                                                ║
 ╚════════════════════════════════════════════════╝
 ```
